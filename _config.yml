@@ -1,0 +1,19 @@
+# Setup
+title:        Potato Site
+tagline:      A website to store potato's tutorial 
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       potato
+  url:        http://localhost:4000 
+  url:      
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
