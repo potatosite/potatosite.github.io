@@ -9,7 +9,7 @@ locale:       "en"
 author:
   name:       potato
   url:        http://localhost:4000 
-  url:      
+  url:        https://happypotato.cf
 
 # Gems
 gems:
